@@ -1,0 +1,21 @@
+filename = 'fusion-1.3.16a-fabric-mc26.3.jar'
+name = 'Fusion (Connected Textures)'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.16a-fabric-mc26.3'
+
+[download]
+hash = '2133453ed6531b210110d860a440905f7abf2e45e5ed1d1072c06fdc05466d8029dddfeb88ddd0bf2826fd58994d101c4977f60705d3c94e2a5cf62630d95469'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/sEYDlGfG/fusion-1.3.16a-fabric-mc26.3.jar'
+
+[update.modrinth]
+mod-id = 'p19vrgc2'
+version = 'sEYDlGfG'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

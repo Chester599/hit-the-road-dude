@@ -1,0 +1,21 @@
+filename = 'trade-cycling-fabric-1.0.23+26.3.jar'
+name = 'Trade Cycling'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-1.0.23+26.3'
+
+[download]
+hash = '5a1a29ac015f1a0ee702db24c28df9191617e3f1e00f31af5e40ba55a05c33088d6f426290684e48f83b32d17ded92a1db6bd355f6af231609f847e5fe483aa2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qpPoAL6m/versions/FKbMeHEw/trade-cycling-fabric-1.0.23%2B26.3.jar'
+
+[update.modrinth]
+mod-id = 'qpPoAL6m'
+version = 'FKbMeHEw'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AhllI99f'
+type = 'OPTIONAL'

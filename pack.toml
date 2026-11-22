@@ -1,0 +1,13 @@
+name = "Hit_The_Road_Dude"
+author = "Chester599"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fee0981a7e30ad38a09824c451605bf141accb8cc9d348cedf145aa48a79f6df"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

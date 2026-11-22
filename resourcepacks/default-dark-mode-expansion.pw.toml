@@ -1,0 +1,83 @@
+filename = 'Default-Dark-Mode-Expansion-1.19.0+-2026.9.1.zip'
+name = 'Default Dark Mode: Expansion'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '25w14craftmine',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3 Pre-Release  1',
+    '26.3 Pre-Release  2',
+    '26.3 Pre-Release  3',
+    '26.3 rc 1',
+    '26.3 rc 2',
+    '26.3 rc 3',
+    '26.3 snapshot 1',
+    '26.3 snapshot 2',
+    '26.3 snapshot 3',
+    '26.3 snapshot 4',
+    '26.3 snapshot 5',
+    '26.3 snapshot 6',
+    '26.3 snapshot 7',
+    '26.3 snapshot 8',
+    '26.3 snapshot 9',
+    '26.3 snapshot 10',
+    '26.3-pre-1',
+    '26.3-pre-2',
+    '26.3-pre-3',
+    '26.3-rc-1',
+    '26.3-rc-2',
+    '26.3-rc-3',
+    '26.3-snapshot-1',
+    '26.3-snapshot-2',
+    '26.3-snapshot-3',
+    '26.3-snapshot-4',
+    '26.3-snapshot-5',
+    '26.3-snapshot-6',
+    '26.3-snapshot-7',
+    '26.3-snapshot-8',
+    '26.3-snapshot-9',
+    '26.3-snapshot-10',
+    '26.3',
+    '26.4 snapshot 1',
+    '26.4-snapshot-1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2026.9.1'
+
+[download]
+hash = 'f34e2b3a594ab4259cafd67363028fa3f8c3d85075dfe881a00908ec4646792974e61bf351ecd7136dbb3b8a3c72595566563662599199d37aa29ef754f03565'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m3vMfZFQ/versions/WsFfMrKG/Default-Dark-Mode-Expansion-1.19.0%2B-2026.9.1.zip'
+
+[update.modrinth]
+mod-id = 'm3vMfZFQ'
+version = 'WsFfMrKG'

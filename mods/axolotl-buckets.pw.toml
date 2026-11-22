@@ -1,0 +1,21 @@
+filename = 'axolotlbuckets-fabric-2.0.0+26.3.jar'
+name = 'Axolotl Buckets'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.0+26.3-fabric'
+
+[download]
+hash = '10398ac7689223f7a121cc998b231a280ca3a0039380c18f16e327ab938c283308ff4c8b0c83e275f7ab86cbdb4d2625d0b6d3dab532608aed5e6899dda344ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6tlhZmC5/versions/GG7SiKGo/axolotlbuckets-fabric-2.0.0%2B26.3.jar'
+
+[update.modrinth]
+mod-id = '6tlhZmC5'
+version = 'GG7SiKGo'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'Ping-Wheel-1.12.2-fabric-26.3.jar'
+name = 'Ping Wheel'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.12.2'
+
+[download]
+hash = '7195d283a6fda15da5c9c3c09c2a687bb7ecac9fb477989d38e474c7fd8860b72a39d0796442da9b1b9073e2527ed43395d46b2b690086b512a922df726d9e1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QQXAdCzh/versions/3o7Yk0qP/Ping-Wheel-1.12.2-fabric-26.3.jar'
+
+[update.modrinth]
+mod-id = 'QQXAdCzh'
+version = '3o7Yk0qP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

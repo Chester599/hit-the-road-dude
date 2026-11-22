@@ -1,0 +1,18 @@
+filename = 'collective-26.3.0-8.86.jar'
+name = 'Collective'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.3.0-8.86-fabric+forge+neo'
+
+[download]
+hash = '08d82111c0c4d4d53e4a686df23f7f579a8988caa0048c512d4fbea2f84c9556072e5b888d4bc785d323cafdeebdd3f3837b07109ed386be3b808a09a694b83a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/jfxbozAD/collective-26.3.0-8.86.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'jfxbozAD'

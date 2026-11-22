@@ -1,0 +1,18 @@
+filename = 'Just 3D Potions 1.2.zip'
+name = 'Just 3D Potions (Punchy!)'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1', '1.21.11', '26.1.2', '26.2', '26.3', '26.4 snapshot 2', '26.4-snapshot-2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = 'e41e99de4f623d10ff6faacd8cb51280b18eb67691cf679b081e3bca8506043bcb40e901e27986191a5951aefa266abb9252b7e4f07e29356da63ca74dd35375'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/elBxAvkW/versions/OsbdpM9c/Just 3D Potions 1.2.zip'
+
+[update.modrinth]
+mod-id = 'elBxAvkW'
+version = 'OsbdpM9c'

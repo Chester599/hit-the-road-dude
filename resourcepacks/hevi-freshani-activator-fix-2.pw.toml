@@ -1,0 +1,8 @@
+name = "HEVI FreshAni Activator Fix 2"
+filename = "HEVI FreshAni Activator Fix 2.zip"
+side = 'client'
+
+[download]
+url = "https://cdn.modrinth.com/data/u69nu00u/versions/V8BbkFtF/HEVI%20FreshAni%20Activator%20Fix%202.zip"
+hash-format = "sha256"
+hash = "e0ac1baa425461a63fb5ba3e57841e99dd7a626f2a4c7281f0874ddfd527d162"

@@ -1,0 +1,8 @@
+name = "Eclipse Shader"
+filename = "Eclipse-Shader-Unstable.zip"
+side = 'client'
+
+[download]
+url = "https://github.com/Merlin1809/Eclipse-Shader/archive/e89e6c6eda248ae946480bd131db1b2a0a0f5c9e.zip"
+hash-format = "sha256"
+hash = "d84024b15dd0a58ab08ac1bd58398a63aa6a71efe07fffd2da5264bdb4a38976"

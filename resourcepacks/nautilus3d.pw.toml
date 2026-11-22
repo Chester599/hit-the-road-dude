@@ -1,0 +1,29 @@
+filename = 'Nautilus3D-26.2.zip'
+name = 'Nautilus 3D'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.2'
+
+[download]
+hash = '639cc03f5de745e155ad9ff35c1a9c6a2861472320bd03eae8519afbb5b31fae5dfad142a84c40ffad68a3fe9d6572abb589f15fc177e55c120fd37e8e31704a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1MyOrwfu/versions/a5PFyRlb/Nautilus3D-26.2.zip'
+
+[update.modrinth]
+mod-id = '1MyOrwfu'
+version = 'a5PFyRlb'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TiF5QWZY'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BVzZfTc1'
+type = 'OPTIONAL'

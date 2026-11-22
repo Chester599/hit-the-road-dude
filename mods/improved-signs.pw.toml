@@ -1,0 +1,21 @@
+filename = 'improved-signs-1.8.0+mc26.3.jar'
+name = 'Improved Signs'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.1'
+
+[download]
+hash = '9a6e38d0969c81ee06a344536601ea538d26dc0c16f29541e1860c8bdd8a8aea817d2597bbe82b5066a1f57ab0a6d74155176ac8acf242d3caf70a46078465ed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tEcCNQe7/versions/uyXIm9va/improved-signs-1.8.0%2Bmc26.3.jar'
+
+[update.modrinth]
+mod-id = 'tEcCNQe7'
+version = 'uyXIm9va'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

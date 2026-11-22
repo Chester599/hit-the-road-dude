@@ -1,0 +1,21 @@
+filename = 'jamlib-fabric-2.3.2+26.3.x.jar'
+name = 'JamLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.2+26.3.x'
+
+[download]
+hash = '9f1a130079edef79a5cf31bcfdc38286ff69006de53bf549b8063279891ec08a7611b3f0fda7de46b3f8a1ee19ec8565cf7d226828a56f90e09d24c46a8fb2f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IYY9Siz8/versions/G6vke27r/jamlib-fabric-2.3.2%2B26.3.x.jar'
+
+[update.modrinth]
+mod-id = 'IYY9Siz8'
+version = 'G6vke27r'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
