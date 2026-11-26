@@ -1,6 +1,6 @@
 filename = 'fusion-1.3.16a-fabric-mc26.3.jar'
 name = 'Fusion (Connected Textures)'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.3' ]
 x-prismlauncher-release-type = 'release'
